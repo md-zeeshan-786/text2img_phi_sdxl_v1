@@ -1,0 +1,21 @@
+{
+  "extracted": "/mnt/data/text2img_hf_prepare",
+  "file_list": [
+    "app.py",
+    "model_utils.py",
+    "requirements.txt",
+    "Dockerfile",
+    "README.md",
+    "prefilter.txt",
+    ".gitignore"
+  ],
+  "candidates": [
+    "/mnt/data/text2img_hf_prepare/app.py"
+  ],
+  "model_ref_files": [
+    "/mnt/data/text2img_hf_prepare/app.py",
+    "/mnt/data/text2img_hf_prepare/model_utils.py",
+    "/mnt/data/text2img_hf_prepare/requirements.txt",
+    "/mnt/data/text2img_hf_prepare/README.md"
+  ]
+}

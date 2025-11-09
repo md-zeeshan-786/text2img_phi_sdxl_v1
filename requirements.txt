@@ -1,0 +1,10 @@
+
+streamlit>=1.20
+transformers>=4.30.0
+diffusers>=0.20.0
+accelerate>=0.20.0
+bitsandbytes>=0.40.0
+torch>=2.4.0
+xformers
+Pillow
+huggingface-hub

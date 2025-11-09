@@ -1,0 +1,14 @@
+
+# Format: TYPE::keyword
+# Types: sensitive, illogical
+sensitive::child
+sensitive::porn
+sensitive::sexual
+sensitive::rape
+sensitive::nsfw
+sensitive::illegal
+sensitive::bomb
+
+illogical::square circle
+illogical::infinite triangle
+illogical::four sided triangle
