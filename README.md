@@ -1,3 +1,13 @@
+title: Text2img Phi Sdxl V1
+emoji: 🚀
+colorFrom: red
+colorTo: red
+sdk: docker
+app_port: 8501
+tags:
+  - streamlit
+pinned: false
+short_description: AI-Powered text to image generator
 
 # Text→Image: Mistral 7B (classifier) + Juggernaut XL (image generator) — v2
 
